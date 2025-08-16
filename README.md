@@ -4,7 +4,7 @@
   <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=SasidharJonnalagadda&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
 </a>
 
-I'm a final-year Computer Science student at **Sreyas Institute of Engineering and Technology**, and I'm really passionate about building things for the web.
+I'm a third-year Computer Science student at **Sreyas Institute of Engineering and Technology**, and I'm really passionate about building things for the web.
 
 - 🌱 Right now, I'm diving deeper into **Java**, **Spring Boot**, and **React**.
 - 👯 I'm always open to collaborating on interesting **open-source full-stack projects**.
