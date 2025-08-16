@@ -4,11 +4,11 @@
   <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=SasidharJonnalagadda&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
 </a>
 
-I'm a third-year Computer Science student at **Sreyas Institute of Engineering and Technology**, and I'm really passionate about building things for the web.
+I'm a third-year Computer Science student at **Sreyas Institute of Engineering and Technology**. I'm passionate about building web applications that solve real-world problems.
 
-- 🌱 Right now, I'm diving deeper into **Java**, **Spring Boot**, and **React**.
+- 🌱 I'm currently focusing on building projects using **Java**, **Spring Boot**, and **React**.
 - 👯 I'm always open to collaborating on interesting **open-source full-stack projects**.
-- 💬 Feel free to ask me about **Data Structures**, **Java**, or **web dev**!
+- 💬 Feel free to ask me about **Java**, **DSA**, and **Web Development**!
 - 📫 The best way to reach me is by email: [sasidharj1234@gmail.com](mailto:sasidharj1234@gmail.com)
 - ⚡ Fun fact: When I'm not coding, I love playing video games!
 
