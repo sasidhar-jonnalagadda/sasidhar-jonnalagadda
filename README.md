@@ -35,7 +35,7 @@ Here are the technologies I'm working with:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,git,github,docker,aws,postman,vscode&perline=9" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,html,css,nodejs,express,mongodb,postgresql,git,github,docker,vscode&perline=8" />
   </a>
 </p>
 
@@ -45,5 +45,5 @@ Here are the technologies I'm working with:
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasidhar-jonnalagadda&layout=compact&theme=dracula&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sasidhar-jonnalagadda&theme=dracula&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=sasidhar-jonnalagadda&theme=dracula&hide_border=true" />
 </p>
