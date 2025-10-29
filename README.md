@@ -45,5 +45,4 @@ Here are the technologies I'm working with:
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasidhar-jonnalagadda&layout=compact&theme=dracula&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=sasidhar-jonnalagadda&theme=dracula&hide_border=true" />
 </p>
