@@ -1,9 +1,5 @@
 ### Hey, I'm Sasidhar Jonnalagadda 👋
 
-<a href="https://github.com/sasidhar-jonnalagadda">
-  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=sasidhar-jonnalagadda&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-</a>
-
 I'm a third-year Computer Science student at **Sreyas Institute of Engineering and Technology** in Hyderabad. I'm passionate about building scalable and user-friendly web applications.
 
 - 🌱 I'm currently building full-stack applications with the **MERN stack**, **Next.js**, and **TypeScript**.
@@ -44,5 +40,11 @@ Here are the technologies I'm working with:
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasidhar-jonnalagadda&layout=compact&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sasidhar-jonnalagadda&show_icons=true&theme=dracula&hide_border=true&count_private=true&hide_rank=true&hide=issues,prs,stars&cache_seconds=1800" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasidhar-jonnalagadda&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sasidhar-jonnalagadda&theme=dracula&hide_border=true&cache_seconds=1800" />
 </p>
