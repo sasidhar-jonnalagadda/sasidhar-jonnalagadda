@@ -2,39 +2,33 @@
 
 **Final-Year Computer Science Student | Sreyas Institute of Engineering & Technology (2023–2027)**
 
-I architect systems focused on high concurrency, distributed logic, and AI-driven data processing. My work centers on solving state synchronization issues, optimizing search latency, and ensuring data integrity across decoupled microservices.
+I am an aspiring Software Engineer focused on building clean, efficient, and reliable full-stack web applications. My work centers on writing structured code, optimizing data processing logic, and understanding core database management concepts.
 
 ---
 
 ### Featured Projects
 
-**[High-Concurrency E-Commerce](https://github.com/sasidhar-jonnalagadda/high-concurrency-ecommerce-monorepo)**
-*   **Problem:** Inventory overselling and database deadlocks during high-traffic spikes.
-*   **Solution:** Implemented Redis-based distributed locking and Optimistic Concurrency Control (OCC) using Prisma.
-*   **Outcome:** 99.99% inventory accuracy under 1,000+ concurrent checkout simulations.
-*   *Stack: Next.js, Node.js, PostgreSQL, Redis, Docker.*
+**[Full-Stack E-Commerce Platform](https://github.com/sasidhar-jonnalagadda/high-concurrency-ecommerce-monorepo)**
+*   **Description:** A responsive full-stack e-commerce web application featuring comprehensive product catalogs, dynamic shopping carts, and a structured checkout flow.
+*   **Key Implementations:** Engineered secure server-side session controls using JSON Web Tokens (JWT) and utilized robust database transaction blocks to handle inventory updates cleanly.
+*   **Outcome:** Eliminated stock race conditions and concurrent order overselling to maintain high database consistency.
+*   *Stack: Next.js, Node.js (Express), PostgreSQL, TypeScript, REST APIs.*
 
-**[Distributed Movie Recommender](https://github.com/sasidhar-jonnalagadda/distributed-movie-recommender)**
-*   **Problem:** High latency in similarity computations and external API dependency.
-*   **Solution:** Optimized Python-based vector operations using NumPy $O(N)$ argpartition and engineered a PostgreSQL write-through cache.
-*   **Outcome:** Reduced recommendation latency to <30ms; implemented Opossum circuit breakers for fault tolerance.
-*   *Stack: Next.js, FastAPI, Python, PostgreSQL, Docker.*
-
-**[AI Applicant Tracking System](https://github.com/sasidhar-jonnalagadda/ai-applicant-tracking-system)**
-*   **Problem:** Main-thread blocking during PDF parsing and inconsistent AI-generated data schemas.
-*   **Solution:** Offloaded processing to BullMQ/Redis workers; implemented dual-layer validation via Gemini JSON schemas and Zod.
-*   **Outcome:** 95% reduction in API blocking; enabled semantic search via 768-dimensional vector embeddings.
-*   *Stack: Next.js, MongoDB, Redis, AWS S3, Gemini AI.*
+**[Movie Recommendation Engine](https://github.com/sasidhar-jonnalagadda/distributed-movie-recommender)**
+*   **Description:** A full-stack movie platform linking an interactive user dashboard with a customized Python processing backend script.
+*   **Key Implementations:** Optimized heavy data cycles using NumPy's quickselect algorithm and built a localized metadata caching strategy.
+*   **Outcome:** Reduced time complexity from $O(N \log N)$ to linear $O(N)$ and successfully minimized duplicate external API requests.
+*   *Stack: Next.js, Node.js (Express), Python, NumPy, PostgreSQL, REST APIs.*
 
 ---
 
-### Technical Proficiencies
+### Technical Skills
 
-*   **Languages:** TypeScript, JavaScript, Python, Java, SQL
-*   **Frontend:** Next.js (App Router), React, Tailwind CSS, HTML5, CSS3
-*   **Backend:** Node.js, Express.js, FastAPI, REST APIs, Prisma, Zod
-*   **Infrastructure:** Redis, PostgreSQL, MongoDB, AWS S3, Docker, Git, CI/CD, Jest
-*   **Systems:** Microservices, Event-Driven Architecture, Distributed Locking, Vector Search
+*   **Languages:** Python (NumPy), Java, JavaScript, TypeScript, SQL
+*   **Frontend Web:** React, Next.js, HTML5, CSS3, Tailwind CSS
+*   **Backend & APIs:** Node.js, Express.js, REST APIs, Prisma ORM
+*   **Databases & Tools:** PostgreSQL, Git, Postman
+*   **Core Concepts:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems (OS), Computer Networks (CN)
 
 ---
 
